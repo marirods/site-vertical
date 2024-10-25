@@ -10,6 +10,7 @@ a{
 
 ul, ol, li{
     list-style: none;
+    
 }
 
 html, body{
@@ -43,24 +44,39 @@ header nav a:hover{
     background-color: tomato;
 }
 
-#vermelho{
-    background-color: tomato;
+#Moranguinho{
+    background-color: #D52958;
+    background-size: contain;
+    background-position: 30vw ;
+    background-repeat: no-repeat;
+    height: 100vh;
+   
 }
 
 
-#verde{
-    background-color: lightgreen;
+
+#title{
+    
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title h1{
+    font-size: 16vw;
+}
+#Laranjinha{
+    background-color: orange;
 }
 
 
-#azul{
-    background-color:lightblue;
+#AmoraLinda{
+    background-color:rgb(57, 2, 135, 0.785);
 }
 
-#amarelo{
+#GotinhadeLimão{
     background-color: gold;
 }
 
-#roxo{
-    background-color: purple;
+#Ameixinha{
+    background-color: darkmagenta;
 }
